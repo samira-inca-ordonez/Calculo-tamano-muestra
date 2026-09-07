@@ -2,7 +2,7 @@
 
 **Autor:** Jaira Samira Inca Ordoñez
 
-Este repositorio contiene los ejercicios prácticos del artículo **"¿Cómo calcular el tamaño de muestra? Una guía práctica con ejemplos aplicados"**.
+Este repositorio contiene los ejercicios prácticos del artículo [**"¿Cómo calcular el tamaño de muestra? Una guía práctica con ejemplos aplicados"**](https://www.linkedin.com/pulse/c%25C3%25B3mo-calcular-el-tama%25C3%25B1o-de-muestra-una-gu%25C3%25ADa-pr%25C3%25A1ctica-en-inca-ordo%25C3%25B1ez-cowye).
 
 ---
 
